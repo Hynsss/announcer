@@ -73,3 +73,4 @@ This is a bot for announcing things. I made this to replace Dyno in [CPBack](htt
 ## Contributing
 If you want to contribute, you should be smart enough to know how to set up a dev environment for the bot. (it's the same steps as running it normally lol)
 If you want to contribute, make a pull request and stuff. I'll look through it and accept it and stuff yeeeeeee
+[![Run on Repl.it](https://repl.it/badge/github/daniel11420/announcer)](https://repl.it/github/daniel11420/announcer)
